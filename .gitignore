@@ -1,0 +1,6 @@
+# Ignorar datasets
+*.csv
+*.parquet
+
+# Ignorar archivos de Jupyter checkpoints
+.ipynb_checkpoints/
