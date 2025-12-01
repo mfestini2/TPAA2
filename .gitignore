@@ -2,5 +2,8 @@
 *.csv
 *.parquet
 
+Ignorar RFs entrenados
+*.pkl
+
 # Ignorar archivos de Jupyter checkpoints
 .ipynb_checkpoints/
