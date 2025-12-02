@@ -5,5 +5,9 @@
 Ignorar RFs entrenados
 *.pkl
 
+Ignorar archivos comprimidos
+*.rar
+*.zip
+
 # Ignorar archivos de Jupyter checkpoints
 .ipynb_checkpoints/
